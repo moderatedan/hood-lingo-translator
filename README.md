@@ -52,8 +52,13 @@ This software is intended for educational, creative, and cultural exploration pu
     Liability Waiver:
     The creators are not responsible for any misuse of this software.
 
-For licensing inquiries or approved use cases, connect via LinkedIn.
-License
+
+## License
+The Hood Lingo Translator is licensed under a custom license.  
+- **Free for use**: Personal, educational, and commercial use is allowed.  
+- **Modification**: Modifications are not allowed without a paid license.  
+See [LICENSE.md](LICENSE.md) for more details.
+
 
 All Rights Reserved.
 Unauthorized copying or distribution of this software, via any medium, is strictly prohibited.
