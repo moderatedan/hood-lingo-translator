@@ -1,7 +1,6 @@
-# hood-lingo-translator
+Hood Lingo Translator
 
-"An automatic text translator that converts standard text into urban lingo across different levels."
-
+An automatic text translator that converts standard text into urban lingo across different levels.
 Table of Contents
 
     Introduction
