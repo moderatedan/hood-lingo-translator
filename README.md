@@ -12,7 +12,7 @@ Table of Contents
 
 Introduction
 
-![Hood Lingo Translator](assets/homies-style-graphic.png)
+![Hood Lingo Translator](https://github.com/moderatedan/hood-lingo-translator/blob/master/assets/homies-style-graphic.png)
 
 
 The Hood Lingo Translator is a tool that translates standard English text into varying levels of urban slang, providing insights into cultural language patterns. Designed for creative, educational, and cultural appreciation purposes, it offers a fun and practical way to explore linguistic diversity.
