@@ -1,71 +1,61 @@
 # hood-lingo-translator
-"An automatic text translator that converts standard text into urban lingo across different levels."
-Hood Lingo Translator
 
 An automatic text translator that converts standard text into urban lingo across different levels.
 Table of Contents
 
     Introduction
     Features
-    Usage
+    Usage Instructions
     Disclaimer and Usage Policy
     License
     Contact Information
 
 Introduction
 
-The Hood Lingo Translator is designed to enable users to explore linguistic diversity and understand vernacular expressions in a controlled and responsible manner. This tool translates standard English text into various levels of urban slang, providing insights into different cultural expressions.
+The Hood Lingo Translator is a tool that translates standard English text into varying levels of urban slang, providing insights into cultural language patterns. Designed for creative, educational, and cultural appreciation purposes, it offers a fun and practical way to explore linguistic diversity.
 Features
 
-    Multi-Level Translation: Choose from different intensity levels of slang translation.
-    Cultural Exploration: Gain insights into urban language patterns and expressions.
-    Easy Integration: Can be integrated into other projects or used as a standalone tool.
+    Multi-Level Translation: Choose varying intensity levels of slang translation.
+    Cultural Insights: Understand vernacular language in different contexts.
+    Simple Integration: Use as a standalone tool or integrate it into larger projects.
 
-Usage
+Usage Instructions
 
-To use the Hood Lingo Translator, follow these steps:
-
-    Installation:
+    Clone the Repository:
 
 git clone git@github.com:moderatedan/hood-lingo-translator.git
 cd hood-lingo-translator
 
-Running the Translator:
+Run the Translator:
 
 python translator.py "Your standard English text here."
 
-Selecting Translation Level:
+Specify Translation Level (Optional):
 
-    You can specify the translation level by adding a flag:
+    Choose translation levels from 1 (basic) to 3 (intense):
 
         python translator.py --level 3 "Your standard English text here."
 
 Disclaimer and Usage Policy
 
-Usage Disclaimer
-
-This software, Hood Lingo Translator, is designed for educational, creative, and cultural appreciation purposes only. It enables users to explore linguistic diversity and understand vernacular expressions responsibly.
-
-By using this software, you agree to the following terms:
+This software is intended for educational, creative, and cultural exploration purposes only. By using it, you agree to the following:
 
     Prohibited Uses:
-        You will not use this software for:
-            Illegal activities, including but not limited to impersonation, identity theft, fraud, or harassment.
-            Disseminating disinformation, propaganda, or harmful content.
-            Automated systems (e.g., botnets) designed to manipulate public opinion or deceive others.
-    Ethical Commitment:
-        Users are expected to uphold ethical standards and comply with local and international laws regarding the responsible use of technology.
+    You will not use this software for:
+        Illegal activities (e.g., impersonation, fraud, harassment).
+        Disinformation campaigns or harmful automated systems.
+    Ethical Responsibility:
+    Users must comply with local and international laws governing the responsible use of technology.
     Liability Waiver:
-        The creators and distributors of this software are not liable for any misuse or harm caused by its application, intentional or otherwise.
-    Restrictions:
-        This software may not be used in sensitive environments (e.g., governmental operations, intelligence agencies) without explicit permission from the creator.
+    The creators are not responsible for any misuse of this software.
 
-For inquiries regarding licensing or approved use cases, please contact me via LinkedIn.
+For licensing inquiries or approved use cases, connect via LinkedIn.
 License
 
-All rights reserved. This project is proprietary and confidential. Unauthorized copying or distribution of this software, via any medium, is strictly prohibited.
+All Rights Reserved.
+Unauthorized copying or distribution of this software, via any medium, is strictly prohibited.
 Contact Information
 
-For questions, suggestions, or collaborations, please connect with me on LinkedIn:
+For questions, collaborations, or licensing, connect with me on LinkedIn:
 
     LinkedIn: linkedin.com/in/danielbrummitt/
